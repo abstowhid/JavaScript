@@ -42,10 +42,10 @@ console.log('Ternary Operator:', result); // Adult
 
 // Increment and Decrement Operators
 let count = 10;
-console.log('Post-increment:', count++); // 10 (then incremented)
-console.log('Pre-increment:', ++count); // 12
-console.log('Post-decrement:', count--); // 12 (then decremented)
-console.log('Pre-decrement:', --count); // 10
+console.log('Post-increment:', count++); // 10 (then incremented) not in the same line
+console.log('Pre-increment:', ++count); // 12 ( update in the same line instant)
+console.log('Post-decrement:', count--); // 12 (then decremented) not in the same line
+console.log('Pre-decrement:', --count); // 10 (update in the same line instant)
 
 // Type Operators
 console.log('Type of 42:', typeof 42); // "number"

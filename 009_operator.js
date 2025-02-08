@@ -67,7 +67,7 @@ let firstName = 'Towhid',
     lastName = 'Hossain';
 console.log('String Concatenation:', firstName + ' ' + lastName); // "Towhid Hossain"
 
-// Spread Operator
+// Spread Operator           used in min max in math
 let arr1 = [1, 2, 3];
 let arr2 = [...arr1, 4, 5];
 console.log('Spread Operator:', arr2); // [1, 2, 3, 4, 5]

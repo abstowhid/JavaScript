@@ -39,3 +39,7 @@ console.log('Replaced string:', newStr); // Output: Hello, JavaScript!
 let sentence = 'This is a test sentence.';
 let words = sentence.split(' ');
 console.log('Words array:', words); // Output: [ 'This', 'is', 'a', 'test', 'sentence.' ]
+
+//10.
+
+//11.

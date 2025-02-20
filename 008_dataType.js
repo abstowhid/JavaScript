@@ -58,6 +58,7 @@ console.log('Array:', numbers, 'Type:', typeof numbers);
 //*
 //*
 
+
 //! all data types( with variable)
 let number = 42; // Number
 let text = 'Hello, World!'; // String

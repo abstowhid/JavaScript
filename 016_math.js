@@ -77,3 +77,4 @@ console.log('Random between 1 and 10:', Math.floor(randomNum * 10) + 1);
 let numbers = [3, 7, 2, 9];
 console.log('Math.min(...numbers):', Math.min(...numbers)); // Returns minimum value
 console.log('Math.max(...numbers):', Math.max(...numbers)); // Returns maximum value
+
